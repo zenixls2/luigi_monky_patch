@@ -11,7 +11,7 @@ this part for luigi s3 file iteration feature.
 Getting Started
 ---------------
 
-Run ``pip install luigi_monkey_patch`` to install the latest stable version from `Pypi<https://pypi.python.org/pypi/luigi_monkey_patch>`_. Documentation and any issues are hosted `here<https://github.com/zenixls2/luigi_monkey_patch>`__.
+Run ``pip install luigi_monkey_patch`` to install the latest stable version from `Pypi <https://pypi.python.org/pypi/luigi_monkey_patch>`_. Documentation and any issues are hosted `here <https://github.com/zenixls2/luigi_monkey_patch>`__.
 
 Modified Functions
 ------------------
@@ -22,4 +22,4 @@ Authors
 -------
 
 Luigi was built at `Spotify <https://www.spotify.com/us/>`_.
-This patch is done by `Zenix Huang<https://github.com/zenixls2>`_.
+This patch is done by `Zenix Huang <https://github.com/zenixls2>`_.
